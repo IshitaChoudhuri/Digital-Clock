@@ -13,12 +13,11 @@ To set up and run the digital clock program, follow these steps:
   2. Open a terminal or command prompt and navigate to the project directory.
 
   3. Install any necessary dependencies by running the following command:
-
-      Copy code
         `pip install tkinter`
+        
   4. Run the digital clock program by executing the following command:
-     Copy code
           `python digitalclock.py`
+          
   5. The digital clock will now start running and display the current time in the console.
  
 # Customization
